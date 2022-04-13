@@ -8,7 +8,7 @@
       <v-card>
         <v-card-title class="headline">
           Welcome to the Vuetify + Nuxt.js template
-          <h2>Hola</h2>
+          <h2>Hola Mundo</h2>
         </v-card-title>
         <v-card-text>
           <p>Vuetify is a progressive Material Design component framework for Vue.js. It was designed to empower developers to create amazing applications.</p>
